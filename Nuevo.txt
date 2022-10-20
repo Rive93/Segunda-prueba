@@ -3,6 +3,10 @@ para poder ver los archivos en linea
 
 Veamos como nos va con los archivos en la nube de git hub
 
+Segun yo se deben de ver varios cambios.
+
+A ver como se comporta esto.
+
 
 Seguiremos aprendiendo mas sobre git
 

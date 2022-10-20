@@ -1,5 +1,7 @@
 Primer cambio realizado para subir el primer proyecto 
+Aqui veremos si se guardaron algunos de los cambios.
 
+Es muy entretenido hacer algunas de estas cosas aun que me canso aveces siento que estoy avanzando bastante
 Espero que esta ocasion si funcione y no me equivoque
 
 Estamos haciendo pruebas con ssh
